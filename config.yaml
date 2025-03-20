@@ -28,10 +28,10 @@ mixed-port: 7893
 tproxy-port: 7894
 allow-lan: true
 bind-address: "*"
-ipv6: true
+ipv6: false
 unified-delay: true
 tcp-concurrent: true
-log-level: warning
+log-level: info
 find-process-mode: 'off'
 # interface-name: en0
 global-client-fingerprint: chrome
@@ -45,7 +45,7 @@ profile:
 # 控制面板
 external-controller: 0.0.0.0:9090
 secret: ""
-external-ui: "/root/.config/mihomo/"
+external-ui: "/etc/mihomo/"
 external-ui-name: zashboard
 external-ui-url: "https://github.com/Zephyruso/zashboard/archive/refs/heads/gh-pages.zip"
 
@@ -91,7 +91,7 @@ tun:
 dns:
   enable: true
   listen: 0.0.0.0:1053
-  ipv6: true
+  ipv6: false
   respect-rules: true
   enhanced-mode: redir-host
   fake-ip-range: 28.0.0.1/8
