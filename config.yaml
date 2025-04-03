@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://gLvfsplk.doggygo.top:8443/api/v1/client/dd4a08f1652ff9d4dc71155e15bb333b"
+    url: "https://ghfast.top/https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub"    
     type: http
     interval: 86400
     health-check:
@@ -14,8 +14,23 @@ proxy-providers:
       User-Agent:
       - "Clash"
       - "mihomo"
-      - "Clash.meta"
-
+      - "Clash.meta"  
+      
+proxy-providers:
+  Airport1:
+    url: "https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"      
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 直连
+    header:
+      User-Agent:
+      - "Clash"
+      - "mihomo"
+      - "Clash.meta"  
 # 节点信息
 proxies:
   - {name: 直连, type: direct, udp: true}
