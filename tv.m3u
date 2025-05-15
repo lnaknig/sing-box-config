@@ -1,39 +1,39 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="央视频道",CCTV1
+#EXTINF:-1 group-title="央视频道",CCTV-1综合
 http://39.134.242.92:80/180000001002/00000001000000000007000000001243/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV2
+#EXTINF:-1 group-title="央视频道",CCTV-2经济
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000050/index.m3u8?
-#EXTINF:-1 group-title="央视频道",CCTV3
+#EXTINF:-1 group-title="央视频道",CCTV-3综艺
 http://39.134.242.92:80/180000001002/00000001000000000008000000047432/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV4
+#EXTINF:-1 group-title="央视频道",CCTV-4中文国际
 http://39.134.240.3/PLTV/2/224/3221225829/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV5
+#EXTINF:-1 group-title="央视频道",CCTV-5体育
 http://39.134.240.3/PLTV/2/224/3221225827/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV5+
+#EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047442/index.m3u8?
-#EXTINF:-1 group-title="央视频道",CCTV6
+#EXTINF:-1 group-title="央视频道",CCTV-6电影
 http://39.134.240.3/PLTV/2/224/3221225825/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV7
+#EXTINF:-1 group-title="央视频道",CCTV-7国防军事
 http://39.134.240.3/PLTV/2/224/3221225823/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV8
+#EXTINF:-1 group-title="央视频道",CCTV-8电视剧
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000056/index.m3u8?
-#EXTINF:-1 group-title="央视频道",CCTV9
+#EXTINF:-1 group-title="央视频道",CCTV-9纪录
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000057/index.m3u8?
-#EXTINF:-1 group-title="央视频道",CCTV10
+#EXTINF:-1 group-title="央视频道",CCTV-10科教
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000058/index.m3u8?
-#EXTINF:-1 group-title="央视频道",CCTV11
+#EXTINF:-1 group-title="央视频道",CCTV-11戏曲
 http://39.134.13.35:6610/180000001001/00000001000000001019000000352943/index.m3u8?
-#EXTINF:-1 group-title="央视频道",CCTV12
+#EXTINF:-1 group-title="央视频道",CCTV-12社会与法
 http://39.134.240.3/PLTV/2/224/3221225815/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV13
+#EXTINF:-1 group-title="央视频道",CCTV-13新闻
 http://39.134.242.92:80/180000001002/00000001000000000050000000133801/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV14
+#EXTINF:-1 group-title="央视频道",CCTV-14少儿
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000059/index.m3u8?
-#EXTINF:-1 group-title="央视频道",CCTV15
+#EXTINF:-1 group-title="央视频道",CCTV-15音乐
 http://39.134.242.92:80/180000001002/00000001000000000026000000446967/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV16
+#EXTINF:-1 group-title="央视频道",CCTV-16奥林匹克
 http://39.134.13.35:6610/180000001001/00000001000000000085000000178450/main.m3u8?
-#EXTINF:-1 group-title="央视频道",CCTV17
+#EXTINF:-1 group-title="央视频道",CCTV-17农业农村
 http://39.134.242.92:80/180000001002/00000001000000000025000000024152/index.m3u8
 #EXTINF:-1 group-title="数字频道",CHC家庭影院
 http://39.134.242.92:80/180000001002/00000001000000000050000000448840/main.m3u8
@@ -105,59 +105,59 @@ http://39.134.242.92:80/180000001002/00000001000000000016000000007223/index.m3u8
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047449/index.m3u8?
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://39.134.13.73:6610/180000001001/00000001000000000007000000001244/index.m3u8?
-#EXTINF:-1 group-title="卫视",江西卫视
+#EXTINF:-1 group-title="卫视频道",江西卫视
 http://39.134.240.3/PLTV/2/224/3221225972/index.m3u8
-#EXTINF:-1 group-title="卫视",东方卫视
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000064/index.m3u8?
-#EXTINF:-1 group-title="卫视",湖北卫视
+#EXTINF:-1 group-title="卫视频道",湖北卫视
 http://39.134.242.92:80/180000001002/00000001000000000008000000047447/index.m3u8
-#EXTINF:-1 group-title="卫视",辽宁卫视
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://39.134.242.92:80/180000001002/00000001000000000016000000007225/index.m3u8
-#EXTINF:-1 group-title="卫视",山东卫视
+#EXTINF:-1 group-title="卫视频道",山东卫视
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000067/index.m3u8?
-#EXTINF:-1 group-title="卫视",深圳卫视
+#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000065/index.m3u8?
-#EXTINF:-1 group-title="卫视",四川卫视
+#EXTINF:-1 group-title="卫视频道",四川卫视
 http://39.134.13.35:6610/180000001001/00000001000000000064000000308823/index.m3u8?
-#EXTINF:-1 group-title="卫视",天津卫视
+#EXTINF:-1 group-title="卫视频道",天津卫视
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047444/index.m3u8?
-#EXTINF:-1 group-title="卫视",浙江卫视
+#EXTINF:-1 group-title="卫视频道",浙江卫视
 http://39.134.13.73:6610/180000001001/00000001000000000007000000001250/index.m3u8?
-#EXTINF:-1 group-title="卫视",重庆卫视
+#EXTINF:-1 group-title="卫视频道",重庆卫视
 http://39.134.13.35:6610/180000001001/00000001000000000064000000308825/index.m3u8?
-#EXTINF:-1 group-title="地方",湖南娱乐
+#EXTINF:-1 group-title="湖南频道",湖南娱乐
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001248/index.m3u8?
-#EXTINF:-1 group-title="地方",湖南电视剧
+#EXTINF:-1 group-title="湖南频道",湖南电视剧
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000037/index.m3u8?
-#EXTINF:-1 group-title="地方",湖南电影
+#EXTINF:-1 group-title="湖南频道",湖南电影
 http://39.134.240.3/PLTV/2/224/3221226140/index.m3u8
-#EXTINF:-1 group-title="地方",湖南经视
+#EXTINF:-1 group-title="湖南频道",湖南经视
 http://39.134.240.3/PLTV/2/224/3221226036/index.m3u8
-#EXTINF:-1 group-title="地方",湖南教育
+#EXTINF:-1 group-title="湖南频道",湖南教育
 http://39.134.242.92:80/180000001002/00000001000000000023000000196697/index.m3u8
-#EXTINF:-1 group-title="地方",湖南都市
+#EXTINF:-1 group-title="湖南频道",湖南都市
 http://39.134.13.37:6610/180000001001/00000001000000000007000000001249/index.m3u8?
-#EXTINF:-1 group-title="地方",湖南爱晚
+#EXTINF:-1 group-title="湖南频道",湖南爱晚
 http://39.134.240.3/PLTV/2/224/3221226192/index.m3u8
-#EXTINF:-1 group-title="地方",湖南国际
+#EXTINF:-1 group-title="湖南频道",湖南国际
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000045/index.m3u8?
-#EXTINF:-1 group-title="地方",金鹰纪实
+#EXTINF:-1 group-title="湖南频道",金鹰纪实
 http://39.134.13.35:6610/180000001001/00000001000000000016000000007228/index.m3u8?
-#EXTINF:-1 group-title="地方",金鹰卡通
+#EXTINF:-1 group-title="湖南频道",金鹰卡通
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001247/index.m3u8?
-#EXTINF:-1 group-title="地方",快乐垂钓
+#EXTINF:-1 group-title="湖南频道",快乐垂钓
 http://39.134.240.3/PLTV/2/224/3221226348/index.m3u8
-#EXTINF:-1 group-title="地方",茶频道
+#EXTINF:-1 group-title="数字频道",茶频道
 http://39.134.13.35:6610/180000001001/00000001000000000025000000316196/index.m3u8?
-#EXTINF:-1 group-title="地方",卡酷动画
+#EXTINF:-1 group-title="数字频道",卡酷动画
 http://39.134.242.92:80/180000001002/00000001000000000090000000215608/main.m3u8
-#EXTINF:-1 group-title="地方",梨园频道
+#EXTINF:-1 group-title="数字频道",梨园频道
 http://39.134.13.35:6610/180000001001/00000001000000000064000000308847/index.m3u8?
-#EXTINF:-1 group-title="地方",天元围棋
+#EXTINF:-1 group-title="数字频道",天元围棋
 http://39.134.13.35:6610/180000001001/00000001000000000010000000040365/index.m3u8?
-#EXTINF:-1 group-title="地方",武术世界
+#EXTINF:-1 group-title="数字频道",武术世界
 http://39.134.13.35:6610/180000001001/00000001000000000064000000308859/index.m3u8?
-#EXTINF:-1 group-title="地方",文物宝库
+#EXTINF:-1 group-title="数字频道",文物宝库
 http://39.134.13.35:6610/180000001001/00000001000000000064000000308848/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1综合
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
