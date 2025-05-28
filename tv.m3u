@@ -675,3 +675,5 @@ https://live.tvfix.org/live/aijazeera/index.m3u8
 https://live.tvfix.org/live/france24/index.m3u8
 #EXTINF:-1 tvg-name="animax" tvg-logo="https://www.animax-asia.com/sites/all/themes/responsive/responsive_animax_asia_2/logo.png" group-title="港澳台频道",Animax                                
 https://live.tvfix.org/live/animax/index.m3u8
+#EXTINF:-1 tvg-name="中国电影频道" tvg-logo="https://zh.wikipedia.org/wiki/%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93_(CCTV-6)#/media/File:China_Movie_Channel_Main_Logo.png" group-title="港澳台频道",中国电影频道
+https://live.tvfix.org/live/cmc/index.m3u8
