@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
+http://jxiptv.dpdns.org/stream/4gtv/null-3/master.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
+http://jxiptv.dpdns.org/stream/4gtv/null-4/master.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰卫视香港台
+http://jxiptv.dpdns.org/stream/4gtv/null-5/master.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+http://jxiptv.dpdns.org/stream/4gtv/null/master.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+http://mytv.cdn.com.mp/hls/fct/playlist.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+http://mytv.cdn.com.mp/hls/fct/playlist.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
+http://mytv.cdn.com.mp/hls/fct/playlist.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
+http://jxiptv.dpdns.org/stream/4gtv/null-1/master.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
+http://jxiptv.dpdns.org/stream/4gtv/null-2/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="港澳台",娱乐新闻台
+http://jxiptv.dpdns.org/stream/4gtv/null-6/master.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",黄金翡翠台
+http://jxiptv.dpdns.org/stream/4gtv/null-7/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="港澳台",粤语片台
+http://jxiptv.dpdns.org/stream/4gtv/null-11/master.m3u8
+#EXTINF:-1 tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台",美亚电影台
+http://jxiptv.dpdns.org/stream/4gtv/null-10/master.m3u8
+#EXTINF:-1 tvg-name="PopC" tvg-logo="http://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" group-title="港澳台",PopC
+http://jxiptv.dpdns.org/stream/4gtv/popc/master.m3u8
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.cn/tv/TVB+.png" group-title="港澳台",TVB Plus
+http://jxiptv.dpdns.org/stream/4gtv/tvbplus/master.m3u8
+#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="" group-title="港澳台",ROCK Action
+http://jxiptv.dpdns.org/stream/4gtv/rockaction/master.m3u8
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="" group-title="港澳台",Love Nature
+http://jxiptv.dpdns.org/stream/4gtv/lovenaturehd/master.m3u8
+#EXTINF:-1 tvg-name="myTV SUPER FREE" tvg-logo="" group-title="港澳台",myTV SUPER FREE
+http://jxiptv.dpdns.org/stream/4gtv/mytvsuperfree/master.m3u8
+#EXTINF:-1 tvg-name="SUPER Kids Channel" tvg-logo="" group-title="港澳台",SUPER Kids Channel
+http://jxiptv.dpdns.org/stream/4gtv/superkidschannel/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="港澳台",中央电视台综合频道 (港澳版)
+http://jxiptv.dpdns.org/stream/4gtv/null-9/master.m3u8
